@@ -210,8 +210,8 @@ the RS485 interface.
       0xF8 + 0xC1 + Abnormal code + CRC Check High Byte + CRC Check Low Byte
       ```
 
-      It should be noted that the calibration takes 3 to 3 seconds, after the master sends the commmand
-      if the calibration is successful, it will take 3 ~ 4 seconda to receive responce from the slave.
+      It should be noted that the calibration takes 3 to 4 seconds, after the master sends the commmand
+      if the calibration is successful, it will take 3 ~ 4 seconds to receive responce from the slave.
 
 
    5. CRC check
